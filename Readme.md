@@ -19,11 +19,14 @@
   <a href="#versionado">Versionado</a>
 </p>
 
-![screenshot](https://miro.medium.com/v2/resize:fit:1000/0*gYeEWqnWqw8P-yuF.png)
-+
-![sea](https://raw.githubusercontent.com/SeaQL/sea-query/master/docs/SeaQL%20icon%20dark.png)
-+
-[utoipa](https://images.velog.io/images/yulhee741/post/b92c574e-c36a-42e7-8eeb-1b01fa000e94/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-10-13%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2011.02.53.png)
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1000/0*gYeEWqnWqw8P-yuF.png" alt="screenshot" height="100"/>
+  <img src="https://raw.githubusercontent.com/SeaQL/sea-query/master/docs/SeaQL%20icon%20dark.png" alt="sea" height="100"/>
+  <img src="https://miro.medium.com/v2/resize:fit:818/1*zc-LgogGtr7fFHF9e1M8wA.png" alt="utoipa" height="100"/>
+</p>
+
+## Features
+
 
 ## Features
 
