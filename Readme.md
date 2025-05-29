@@ -19,7 +19,7 @@
   <a href="#versionado">Versionado</a>
 </p>
 
-![screenshot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fparam6789.medium.com%2Fwrite-simple-web-server-with-actix-and-sailfish-23cb0a24c224&psig=AOvVaw0osKGGmn5c8VMBkjlLuIgq&ust=1748621509727000&source=images&opi=89978449)
+![screenshot](https://miro.medium.com/v2/resize:fit:1000/0*gYeEWqnWqw8P-yuF.png)
 
 ## Features
 
