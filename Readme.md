@@ -25,8 +25,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="utoipa" height="100"/>
 </p>
 
-## Features
-
 
 ## Features
 
