@@ -9,19 +9,6 @@
 
 <h4 align="center">Login API_REST con <a href="https://actix.rs/" target="_blank">ACTIX WEB</a></h4>
 
-<p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
-  </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
-  </a>
-  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
-</p>
 
 <p align="center">
   <a href="#features">Features</a> •
@@ -32,7 +19,7 @@
   <a href="#versionado">Versionado</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fparam6789.medium.com%2Fwrite-simple-web-server-with-actix-and-sailfish-23cb0a24c224&psig=AOvVaw0osKGGmn5c8VMBkjlLuIgq&ust=1748621509727000&source=images&opi=89978449)
 
 ## Features
 
