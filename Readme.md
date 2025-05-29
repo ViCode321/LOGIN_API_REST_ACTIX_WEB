@@ -20,9 +20,9 @@
 </p>
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1000/0*gYeEWqnWqw8P-yuF.png" alt="screenshot" height="100"/>
+  <img src="https://i.namu.wiki/i/g9MdskqmpcJfvWd1Ed_BihV3Cp5d9DcdIfanji8uZjjFwJu_NaMKXp3hIoKDPr2jCSEDFlGOzNK-EO4aa0RwNA.webp" height="100"/>
   <img src="https://raw.githubusercontent.com/SeaQL/sea-query/master/docs/SeaQL%20icon%20dark.png" alt="sea" height="100"/>
-  <img src="https://miro.medium.com/v2/resize:fit:818/1*zc-LgogGtr7fFHF9e1M8wA.png" alt="utoipa" height="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" alt="utoipa" height="100"/>
 </p>
 
 ## Features
