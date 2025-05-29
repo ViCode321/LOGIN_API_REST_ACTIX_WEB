@@ -16,7 +16,7 @@
   <a href="#descarga">Descarga</a> •
   <a href="#probar-endpoints">Probar Endpoints</a> •
   <a href="#estructura">Estructura</a> •
-  <a href="#versionado">Versionado</a>
+  <a href="#dependecias">Dependecias</a>
 </p>
 
 <p align="center">
@@ -161,6 +161,6 @@ utoipa-swagger-ui = { version = "9.0.2", features = ["actix-web", "debug-embed"]
 validator = { version = "0.20.0", features = ["derive"] }
 ```
 
-## Support
+## Espero que te haya servido ♥
+![screenshot](images/rust.gif)
 
-Espero que te haya servido ♥
